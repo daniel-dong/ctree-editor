@@ -1,0 +1,6 @@
+# Compiled Java classes
+bin/
+*.class
+
+# Big XML
+doc/ctree-samples/large.xml

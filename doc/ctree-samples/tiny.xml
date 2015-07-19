@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<?xml-stylesheet type="text/xsl" href="nlp_style.xsl" ?>
+<xml4nlp>
+    <doc>
+        <para id="0">
+            <sent id="0" cont="迈向充满希望的新世纪——一九九八年新年讲话（附图片１张）">
+                <word id="0" cont="迈向" pos="v" parent="-1" relate="HED" />
+                <word id="1" cont="充满" pos="v" parent="3" relate="DE" />
+                <word id="2" cont="希望" pos="n" parent="1" relate="VOB" />
+                <word id="3" cont="的" pos="u" parent="5" relate="ATT" />
+                <word id="4" cont="新" pos="a" parent="5" relate="ATT" />
+                <word id="5" cont="世纪" pos="n" parent="0" relate="VOB" />
+                <word id="6" cont="——" pos="wp" parent="-2" relate="PUN" />
+                <word id="7" cont="一九九八年" pos="nt" parent="8" relate="ATT" />
+                <word id="8" cont="新年" pos="nt" parent="9" relate="ATT" />
+                <word id="9" cont="讲话" pos="n" parent="0" relate="IS" />
+                <word id="10" cont="（" pos="wp" parent="-2" relate="PUN" />
+                <word id="11" cont="附" pos="v" parent="0" relate="IS" />
+                <word id="12" cont="图片" pos="n" parent="11" relate="VOB" />
+                <word id="13" cont="１" pos="m" parent="14" relate="QUN" />
+                <word id="14" cont="张" pos="q" parent="12" relate="APP" />
+                <word id="15" cont="）" pos="wp" parent="-2" relate="PUN" />
+            </sent>
+            <sent id="1" cont="只要我们进一步解放思想，实事求是，抓住机遇，开拓进取，建设有中国特色社会主义的道路就会越走越宽广。">
+                <word id="0" cont="只要" pos="c" parent="3" relate="CNJ" />
+                <word id="1" cont="我们" pos="r" parent="3" relate="SBV" />
+                <word id="2" cont="进一步" pos="d" parent="3" relate="ADV" />
+                <word id="3" cont="解放思想" pos="i" parent="-1" relate="HED" />
+                <word id="4" cont="，" pos="wp" parent="-2" relate="PUN" />
+                <word id="5" cont="实事求是" pos="i" parent="3" relate="VV" />
+                <word id="6" cont="，" pos="wp" parent="-2" relate="PUN" />
+                <word id="7" cont="抓住" pos="v" parent="5" relate="VV" />
+                <word id="8" cont="机遇" pos="n" parent="7" relate="VOB" />
+                <word id="9" cont="，" pos="wp" parent="-2" relate="PUN" />
+                <word id="10" cont="开拓进取" pos="i" parent="7" relate="VV" />
+                <word id="11" cont="，" pos="wp" parent="-2" relate="PUN" />
+                <word id="12" cont="建设" pos="v" parent="17" relate="DE" />
+                <word id="13" cont="有" pos="v" parent="16" relate="ATT" />
+                <word id="14" cont="中国" pos="ns" parent="15" relate="ATT" />
+                <word id="15" cont="特色" pos="n" parent="13" relate="VOB" />
+                <word id="16" cont="社会主义" pos="n" parent="12" relate="VOB" />
+                <word id="17" cont="的" pos="u" parent="18" relate="ATT" />
+                <word id="18" cont="道路" pos="n" parent="22" relate="SBV" />
+                <word id="19" cont="就" pos="c" parent="22" relate="CNJ" />
+                <word id="20" cont="会" pos="v" parent="22" relate="ADV" />
+                <word id="21" cont="越" pos="d" parent="22" relate="ADV" />
+                <word id="22" cont="走" pos="v" parent="3" relate="VV" />
+                <word id="23" cont="越" pos="d" parent="24" relate="ADV" />
+                <word id="24" cont="宽广" pos="a" parent="22" relate="VV" />
+                <word id="25" cont="。" pos="wp" parent="-2" relate="PUN" />
+            </sent>
+            <sent id="2" cont="我们伟大祖国在新的一年，将是充满生机、充满希望的一年。">
+                <word id="0" cont="我们" pos="r" parent="2" relate="ATT" />
+                <word id="1" cont="伟大" pos="a" parent="2" relate="ATT" />
+                <word id="2" cont="祖国" pos="n" parent="10" relate="SBV" />
+                <word id="3" cont="在" pos="p" parent="10" relate="ADV" />
+                <word id="4" cont="新" pos="a" parent="5" relate="DE" />
+                <word id="5" cont="的" pos="u" parent="7" relate="ATT" />
+                <word id="6" cont="一" pos="m" parent="7" relate="QUN" />
+                <word id="7" cont="年" pos="q" parent="3" relate="POB" />
+                <word id="8" cont="，" pos="wp" parent="-2" relate="PUN" />
+                <word id="9" cont="将" pos="d" parent="10" relate="ADV" />
+                <word id="10" cont="是" pos="v" parent="-1" relate="HED" />
+                <word id="11" cont="充满" pos="v" parent="16" relate="DE" />
+                <word id="12" cont="生机" pos="n" parent="11" relate="VOB" />
+                <word id="13" cont="、" pos="wp" parent="-2" relate="PUN" />
+                <word id="14" cont="充满" pos="v" parent="11" relate="COO" />
+                <word id="15" cont="希望" pos="n" parent="14" relate="VOB" />
+                <word id="16" cont="的" pos="u" parent="18" relate="ATT" />
+                <word id="17" cont="一" pos="m" parent="18" relate="QUN" />
+                <word id="18" cont="年" pos="q" parent="10" relate="VOB" />
+                <word id="19" cont="。" pos="wp" parent="-2" relate="PUN" />
+            </sent>
+            <sent id="3" cont="仿佛听到：在红旗的指引下中国人民向现代化新征程迈进的脚步声。">
+                <word id="0" cont="仿佛" pos="d" parent="1" relate="ADV" />
+                <word id="1" cont="听到" pos="v" parent="-1" relate="HED" />
+                <word id="2" cont="：" pos="wp" parent="-2" relate="PUN" />
+                <word id="3" cont="在" pos="p" parent="14" relate="ADV" />
+                <word id="4" cont="红旗" pos="n" parent="5" relate="DE" />
+                <word id="5" cont="的" pos="u" parent="6" relate="ATT" />
+                <word id="6" cont="指引" pos="n" parent="7" relate="ATT" />
+                <word id="7" cont="下" pos="nd" parent="3" relate="POB" />
+                <word id="8" cont="中国" pos="ns" parent="9" relate="ATT" />
+                <word id="9" cont="人民" pos="n" parent="14" relate="SBV" />
+                <word id="10" cont="向" pos="p" parent="14" relate="ADV" />
+                <word id="11" cont="现代化" pos="n" parent="13" relate="ATT" />
+                <word id="12" cont="新" pos="a" parent="13" relate="ATT" />
+                <word id="13" cont="征程" pos="n" parent="10" relate="POB" />
+                <word id="14" cont="迈进" pos="v" parent="15" relate="DE" />
+                <word id="15" cont="的" pos="u" parent="16" relate="ATT" />
+                <word id="16" cont="脚步声" pos="n" parent="1" relate="VOB" />
+                <word id="17" cont="。" pos="wp" parent="-2" relate="PUN" />
+            </sent>
+            <sent id="4" cont="现在，我们的首都已经结束了拉闸限电的历史，希望依靠大家，使拉闸限电的历史永远不再重演。">
+                <word id="0" cont="现在" pos="nt" parent="6" relate="ADV" />
+                <word id="1" cont="，" pos="wp" parent="-2" relate="PUN" />
+                <word id="2" cont="我们" pos="r" parent="3" relate="DE" />
+                <word id="3" cont="的" pos="u" parent="4" relate="ATT" />
+                <word id="4" cont="首都" pos="n" parent="6" relate="SBV" />
+                <word id="5" cont="已经" pos="d" parent="6" relate="ADV" />
+                <word id="6" cont="结束" pos="v" parent="-1" relate="HED" />
+                <word id="7" cont="了" pos="u" parent="6" relate="MT" />
+                <word id="8" cont="拉" pos="v" parent="12" relate="DE" />
+                <word id="9" cont="闸" pos="n" parent="8" relate="VOB" />
+                <word id="10" cont="限" pos="v" parent="8" relate="COO" />
+                <word id="11" cont="电" pos="n" parent="10" relate="VOB" />
+                <word id="12" cont="的" pos="u" parent="13" relate="ATT" />
+                <word id="13" cont="历史" pos="n" parent="6" relate="VOB" />
+                <word id="14" cont="，" pos="wp" parent="-2" relate="PUN" />
+                <word id="15" cont="希望" pos="v" parent="6" relate="IC" />
+                <word id="16" cont="依靠" pos="v" parent="15" relate="VOB" />
+                <word id="17" cont="大家" pos="r" parent="16" relate="VOB" />
+                <word id="18" cont="，" pos="wp" parent="-2" relate="PUN" />
+                <word id="19" cont="使" pos="v" parent="16" relate="VV" />
+                <word id="20" cont="拉" pos="v" parent="24" relate="DE" />
+                <word id="21" cont="闸" pos="n" parent="20" relate="VOB" />
+                <word id="22" cont="限" pos="v" parent="20" relate="COO" />
+                <word id="23" cont="电" pos="n" parent="22" relate="VOB" />
+                <word id="24" cont="的" pos="u" parent="25" relate="ATT" />
+                <word id="25" cont="历史" pos="n" parent="19" relate="VOB" />
+                <word id="26" cont="永远" pos="d" parent="27" relate="ADV" />
+                <word id="27" cont="不再" pos="d" parent="28" relate="ADV" />
+                <word id="28" cont="重演" pos="v" parent="19" relate="VOB" />
+                <word id="29" cont="。" pos="wp" parent="-2" relate="PUN" />
+            </sent>
+            <sent id="5" cont="要发扬工人阶级的首创精神，不断为企业转机建制、调整结构、加强管理、提高效益献计献策。">
+                <word id="0" cont="要" pos="v" parent="1" relate="ADV" />
+                <word id="1" cont="发扬" pos="v" parent="-1" relate="HED" />
+                <word id="2" cont="工人阶级" pos="n" parent="3" relate="DE" />
+                <word id="3" cont="的" pos="u" parent="5" relate="ATT" />
+                <word id="4" cont="首创" pos="n" parent="5" relate="ATT" />
+                <word id="5" cont="精神" pos="n" parent="1" relate="VOB" />
+                <word id="6" cont="，" pos="wp" parent="-2" relate="PUN" />
+                <word id="7" cont="不断" pos="d" parent="20" relate="ADV" />
+                <word id="8" cont="为" pos="p" parent="20" relate="ADV" />
+                <word id="9" cont="企业" pos="n" parent="10" relate="SBV" />
+                <word id="10" cont="转机建制" pos="j" parent="8" relate="POB" />
+                <word id="11" cont="、" pos="wp" parent="-2" relate="PUN" />
+                <word id="12" cont="调整" pos="v" parent="10" relate="COO" />
+                <word id="13" cont="结构" pos="n" parent="12" relate="VOB" />
+                <word id="14" cont="、" pos="wp" parent="-2" relate="PUN" />
+                <word id="15" cont="加强" pos="v" parent="10" relate="COO" />
+                <word id="16" cont="管理" pos="v" parent="15" relate="VOB" />
+                <word id="17" cont="、" pos="wp" parent="-2" relate="PUN" />
+                <word id="18" cont="提高" pos="v" parent="10" relate="COO" />
+                <word id="19" cont="效益" pos="n" parent="18" relate="VOB" />
+                <word id="20" cont="献计献策" pos="v" parent="1" relate="VV" />
+                <word id="21" cont="。" pos="wp" parent="-2" relate="PUN" />
+            </sent>
+            <sent id="6" cont="受暖湿气流影响，今天晚上到明天，贵州南部、江南、华南西部和北部将有小到中雨。">
+                <word id="0" cont="受" pos="v" parent="19" relate="ADV" />
+                <word id="1" cont="暖湿气流" pos="n" parent="2" relate="ATT" />
+                <word id="2" cont="影响" pos="n" parent="0" relate="VOB" />
+                <word id="3" cont="，" pos="wp" parent="-2" relate="PUN" />
+                <word id="4" cont="今天" pos="nt" parent="5" relate="ATT" />
+                <word id="5" cont="晚上" pos="nt" parent="6" relate="ADV" />
+                <word id="6" cont="到" pos="p" parent="19" relate="ADV" />
+                <word id="7" cont="明天" pos="nt" parent="6" relate="POB" />
+                <word id="8" cont="，" pos="wp" parent="-2" relate="PUN" />
+                <word id="9" cont="贵州" pos="ns" parent="10" relate="ATT" />
+                <word id="10" cont="南部" pos="nd" parent="19" relate="SBV" />
+                <word id="11" cont="、" pos="wp" parent="-2" relate="PUN" />
+                <word id="12" cont="江南" pos="ns" parent="10" relate="COO" />
+                <word id="13" cont="、" pos="wp" parent="-2" relate="PUN" />
+                <word id="14" cont="华南" pos="ns" parent="15" relate="ATT" />
+                <word id="15" cont="西部" pos="nd" parent="10" relate="COO" />
+                <word id="16" cont="和" pos="c" parent="17" relate="LAD" />
+                <word id="17" cont="北部" pos="nd" parent="10" relate="COO" />
+                <word id="18" cont="将" pos="d" parent="19" relate="ADV" />
+                <word id="19" cont="有" pos="v" parent="-1" relate="HED" />
+                <word id="20" cont="小到中雨" pos="i" parent="19" relate="VOB" />
+                <word id="21" cont="。" pos="wp" parent="-2" relate="PUN" />
+            </sent>
+		</para>
+	</doc>
+</xml4nlp>
